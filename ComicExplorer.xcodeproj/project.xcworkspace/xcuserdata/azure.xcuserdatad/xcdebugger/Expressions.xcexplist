@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in ApiService.callAPI&lt;&#x3c4;_0_0&gt;(endpoint:completion:):ApiService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response as? HTTPURLResponse">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
